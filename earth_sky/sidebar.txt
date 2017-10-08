@@ -1,0 +1,21 @@
+<ul class="sidebar-menu" data-widget="tree">
+        <li class="header">MAIN NAVIGATION</li>
+        <li class="active treeview">
+          <a href="#">
+            <i class="fa fa-dashboard"></i> <span>프로그램 실행</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="http://server.itsc.kr/earth/star_view.html"><i class="fa fa-circle-o"></i> 별자리 구경하기</a></li>
+            <li><a href="http://server.itsc.kr/earth/sky_kja.html"><i class="fa fa-circle-o"></i> 격자와 자오선 구경하기</a></li>
+            <li><a href="http://server.itsc.kr/earth/sky_orion.html"><i class="fa fa-circle-o"></i> 오리온 별 구경하기</a></li>
+          </ul>
+        </li>
+        <li><a href="http://server.itsc.kr/earth/path.html"><i class="fa fa-book"></i> <span>위도/경도 확인</span></a></li>
+        <li class="header">LABELS</li>
+        <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>itschool@itsc.kr</span></a></li>
+        <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>itsc@sasa.hs.kr</span></a></li>
+        <li><a href="#"><i class="fa fa-circle-o text-aqua"></i> <span>ITSC-SASA</span></a></li>
+</ul>
